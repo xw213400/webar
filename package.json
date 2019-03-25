@@ -1,0 +1,23 @@
+{
+    "name": "webar",
+    "version": "1.0.0",
+    "description": "WebAR",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "koa",
+        "async"
+    ],
+    "author": "Xie Wei",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "koa": "2.3.0",
+        "koa-bodyparser": "^4.2.0",
+        "koa-router": "^7.2.1",
+        "koa-static": "^4.0.0",
+        "request": "^2.81.0"
+    },
+    "devDependencies": {}
+}

@@ -1,0 +1,21 @@
+{
+	"alpha": true,
+	"antialias": true,
+	"preserveDrawingBuffer": true,
+	"design_size": {
+		"x": 1080,
+		"y": 1920
+	},
+	"batches": {},
+	"clear_color": 11184810,
+	"entry_scene": "xinnian",
+	"simple_atlas": [
+		{
+			"img": "snow.png",
+			"cfg": "snow.json"
+		}],
+	"atlas": [],
+	"dragonbones": [],
+	"funcs": [],
+	"resources": []
+}

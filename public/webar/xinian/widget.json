@@ -1,0 +1,8 @@
+{
+	"wish": {
+		"name": "wish",
+		"class": "WtText",
+		"text": "HALO",
+		"children": []
+	}
+}
